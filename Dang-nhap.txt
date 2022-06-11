@@ -1,2 +1,0 @@
-user name: ltynhi
-password: 12345
